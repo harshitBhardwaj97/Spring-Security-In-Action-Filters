@@ -1,3 +1,6 @@
 [submodule "Spring-Security-Request-Validation-Filter"]
 	path = Spring-Security-Request-Validation-Filter
 	url = https://github.com/harshitBhardwaj97/Spring-Security-Request-Validation-Filter.git
+[submodule "Spring-Security-Static-Key-Auth-Filter"]
+	path = Spring-Security-Static-Key-Auth-Filter
+	url = https://github.com/harshitBhardwaj97/Spring-Security-Static-Key-Auth-Filter.git
